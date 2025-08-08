@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/tu-usuario/data-science-portfolio)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/andresdambrosio/data-science-portfolio)
 
 Este repositorio contiene una colección de proyectos de Data Science que responden a diferentes preguntas y problemas de análisis de datos.
 
@@ -42,7 +42,7 @@ data-science-portfolio/
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/data-science-portfolio.git
+git clone https://github.com/andresdambrosio/data-science-portfolio.git
 cd data-science-portfolio
 ```
 
@@ -105,8 +105,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@andresdambrosio](https://github.com/aandresdambrosio)
+**Andrés D'Ambrosio**
+- GitHub: [@andresdambrosio](https://github.com/andresdambrosio)
 - LinkedIn: [Andrés D'Ambrosio](https://www.linkedin.com/in/andresdambrosio/)
 - Email: andresdambrosio@gmail.com
 

@@ -131,8 +131,8 @@ jupyter notebook notebooks/01_analisis_exploratorio_iris.ipynb
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@andresdambrosio](https://github.com/aandresdambrosio)
+**Andrés D'Ambrosio**
+- GitHub: [@andresdambrosio](https://github.com/andresdambrosio)
 - LinkedIn: [Andrés D'Ambrosio](https://www.linkedin.com/in/andresdambrosio/)
 
 ## 📄 Licencia
