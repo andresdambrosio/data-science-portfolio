@@ -1,0 +1,22 @@
+# Dependencias para el Portfolio de Data Science
+# Análisis de datos
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualización
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Análisis estadístico
+scipy>=1.9.0
+
+# Utilidades
+tqdm>=4.64.0
