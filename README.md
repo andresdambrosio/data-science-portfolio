@@ -106,22 +106,19 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@example.com
+- GitHub: [@andresdambrosio](https://github.com/aandresdambrosio)
+- LinkedIn: [Andrés D'Ambrosio](https://www.linkedin.com/in/andresdambrosio/)
+- Email: andresdambrosio@gmail.com
 
 ## 📊 Estado del Proyecto
 
 - ✅ **Proyecto 1**: Análisis de Iris - Completado
-- ⏳ **Proyecto 2**: Predicción de Precios - En desarrollo
-- ⏳ **Proyecto 3**: Análisis de Sentimientos - Planificado
 
 ## 🎯 Próximos Pasos
 
-1. Completar el segundo proyecto (Predicción de Precios)
-2. Implementar análisis de sentimientos
-3. Agregar más visualizaciones interactivas
-4. Optimizar modelos de machine learning
+1. Agregar más información al análisis
+2. Probar con más modelos y otras técnicas
+3. Armar contenido didáctico y explicativo
 
 ---
 
